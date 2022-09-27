@@ -1,0 +1,23 @@
+{
+	"NAME": "BuildingBlocker",
+	"URL": "https://raw.githubusercontent.com/HebaruSan/BuildingBlocker/main/GameData/BuildingBlocker/BuildingBlocker.version",
+	"DOWNLOAD": "https://github.com/HebaruSan/BuildingBlocker/releases/download/v0.1.0/BuildingBlocker.zip",
+	"GITHUB": {
+		"USERNAME": "HebaruSan",
+		"REPOSITORY": "BuildingBlocker",
+		"ALLOW_PRE_RELEASE": false
+	},
+	"VERSION": {
+		"MAJOR": 0,
+		"MINOR": 1,
+		"PATCH": 0
+	},
+	"KSP_VERSION_MIN": {
+		"MAJOR": 1,
+		"MINOR": 12
+	},
+	"KSP_VERSION_MAX": {
+		"MAJOR": 1,
+		"MINOR": 12
+	}
+}
